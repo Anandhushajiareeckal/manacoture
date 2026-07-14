@@ -1,4 +1,4 @@
-import { n as __toESM } from "../_runtime.mjs";
+import { r as __toESM } from "../_runtime.mjs";
 import { a as products, n as categories } from "./products-BA9_wfGS.mjs";
 import { n as require_react, r as require_jsx_runtime } from "../_libs/react+tanstack__react-query.mjs";
 import { g as Rows3, j as ChevronDown, l as SlidersHorizontal, w as LayoutGrid } from "../_libs/lucide-react.mjs";

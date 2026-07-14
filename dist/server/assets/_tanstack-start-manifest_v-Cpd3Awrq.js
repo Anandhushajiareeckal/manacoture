@@ -1,4 +1,4 @@
-//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-BntBO5tQ.js
+//#region \0tanstack-start-manifest:v
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
 		filePath: "/Users/admin/Sites/mana-frontend/src/routes/__root.tsx",
@@ -14,7 +14,7 @@ var tsrStartManifest = () => ({ routes: {
 			"/product/$id"
 		],
 		preloads: [
-			"/assets/index-DsoM4VBz.js",
+			"/assets/index-mgaBSQpn.js",
 			"/assets/products-BE3YKEaa.js",
 			"/assets/link-BrxQa0cm.js",
 			"/assets/preload-helper-fyxBwyCf.js",
@@ -29,7 +29,7 @@ var tsrStartManifest = () => ({ routes: {
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-DsoM4VBz.js"
+			src: "/assets/index-mgaBSQpn.js"
 		} }]
 	},
 	"/": {
